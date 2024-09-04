@@ -1,1 +1,1 @@
-- - This is my work profile, personal profile is found [HERE](https://github.com/nicklasakerman?tab=repositories)
+- - This is my work profile. Personal profile is found in [HERE](https://github.com/nicklasakerman?tab=repositories)
